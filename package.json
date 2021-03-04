@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "discord-embed-maker": "^3.0.8",
+    "discord.js": "^12.5.1",
+    "embed-js": "^5.0.4",
+    "server": "^1.0.32"
+  }
+}
